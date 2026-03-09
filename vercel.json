@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/api/lark", "destination": "/api/feedback" },
+    { "source": "/api/mcp", "destination": "/api/feedback" }
+  ]
+}
